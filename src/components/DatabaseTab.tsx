@@ -1,5 +1,5 @@
 import { useMemo, useState } from 'react';
-import { Search, Database, CheckCircle2, Circle, UserPlus, Fingerprint } from 'lucide-react';
+import { Search, Database, CircleCheck as CheckCircle2, Circle, UserPlus, Fingerprint } from 'lucide-react';
 import type { StudentProfile } from '@/data/students';
 import { FaceCapture } from '@/components/FaceCapture';
 

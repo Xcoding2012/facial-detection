@@ -1,5 +1,5 @@
 import { useMemo } from 'react';
-import { BarChart3, TrendingUp, Sigma, Award } from 'lucide-react';
+import { ChartBar as BarChart3, TrendingUp, Sigma, Award } from 'lucide-react';
 import { FREQ_DISTRIBUTION, MODAL_CLASS, MODAL_FREQUENCY, TOTAL_STUDENTS } from '@/data/students';
 
 export function ChartsTab() {

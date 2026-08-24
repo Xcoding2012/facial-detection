@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
-import { Camera, CameraOff, Crosshair, CheckCircle2, Fingerprint, UserX } from 'lucide-react';
+import { Camera, CameraOff, Crosshair, CircleCheck as CheckCircle2, Fingerprint, UserX } from 'lucide-react';
 import type { StudentProfile } from '@/data/students';
 import type { Telemetry } from '@/hooks/useTelemetry';
 import {

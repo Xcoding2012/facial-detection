@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useRef, useState } from 'react';
-import { ScanFace, Database, BarChart3, Zap, Terminal } from 'lucide-react';
+import { ScanFace, Database, ChartBar as BarChart3, Zap, Terminal } from 'lucide-react';
 import { Header } from '@/components/Header';
 import { StatsGrid } from '@/components/StatsGrid';
 import { CameraView } from '@/components/CameraView';

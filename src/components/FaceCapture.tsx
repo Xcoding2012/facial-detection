@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
-import { Camera, RefreshCw, CheckCircle2, AlertTriangle } from 'lucide-react';
+import { Camera, RefreshCw, CircleCheck as CheckCircle2, TriangleAlert as AlertTriangle } from 'lucide-react';
 import { detectFace, loadFaceModels, computeGeometricRatio } from '@/lib/faceEngine';
 
 interface FaceCaptureProps {
